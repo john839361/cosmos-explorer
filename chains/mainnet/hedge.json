@@ -1,0 +1,28 @@
+{
+    "chain_name": "hedge-testnet",
+    "api": [
+        {
+            "address": "https://lcd-berberis.hedgeblock.io", 
+            "provider": "ValidatorAsia"
+        }
+    ], 
+    "rpc": [
+        {
+            "address": "https://rpc-berberis.hedgeblock.io", 
+            "provider": "ValidatorAsia"
+        }
+    ],
+    "sdk_version": "0.47.3",
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "hedge",
+    "logo": "/logos/hedge.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uhedge",
+        "symbol": "Hedge",
+        "exponent": "6",
+        "logo": "/logos/hedge_token.svg"
+    }]
+}
