@@ -2,13 +2,13 @@
     "chain_name": "galactica-testnet",
     "api": [
         {
-            "address": "https://galactica-testnet-api.itrocket.net", 
+            "address": "https://galactica-testnet-api.validatorasia.com", 
             "provider": "ValidatorAsia"
         }
     ], 
     "rpc": [
         {
-            "address": "https://galactica-testnet-rpc.itrocket.net", 
+            "address": "https://galactica-testnet-rpc.validatorasia.com", 
             "provider": "ValidatorAsia"
         }
     ],
